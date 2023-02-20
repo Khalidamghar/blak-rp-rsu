@@ -33,7 +33,7 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HG1sAzl.jpg",
       "title": "blak rp 1",
         "text_Content": "Black RP, or Black Roleplay, is a form of role-playing that centers around the experiences of Black individuals and communities. It provides a space for Black players to explore and express the nuances and complexities of their experiences in a fictional setting..",
         "text_Content_1": "."
@@ -43,7 +43,7 @@
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HG1sKWN.jpg",
       "title": "blak rp 2",
         "text_Content": "Black RP can take many forms, from tabletop games to online forums, but they all share a common goal of allowing Black players to tell their own stories and create their own narratives. It can involve creating characters that reflect the players' own identities and experiences, as well as exploring themes such as systemic oppression, racism, and resistance..",
         "text_Content_1": "."
@@ -53,7 +53,7 @@
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HG1sngn.jpg",
       "title": "blak rp 3",
         "text_Content": "One of the key benefits of Black RP is that it provides a safe and empowering space for Black players to explore their own identities and experiences. It allows them to create characters that are more fully realized and authentic to their experiences, and to explore the nuances and complexities of the Black experience..",
         "text_Content_1": "."
@@ -63,7 +63,7 @@
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HG1sBft.jpg",
       "title": "blak rp 4",
         "text_Content": "In addition to being a powerful tool for self-expression, Black RP can also serve as a means of building community and solidarity among Black players. It can help to create a sense of shared experience and understanding, and can foster a sense of camaraderie and mutual support..",
         "text_Content_1": "."
@@ -73,7 +73,7 @@
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HG1sIef.jpg",
       "title": "blak rp 5",
         "text_Content": "At the same time, Black RP can also serve as a means of educating non-Black players about the realities of the Black experience. It can challenge stereotypes and promote a more nuanced understanding of the ways in which race and racism operate in society..",
         "text_Content_1": "."
@@ -83,7 +83,7 @@
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HG1s5sS.jpg",
       "title": "blak rp 6",
         "text_Content": "Despite its many benefits, Black RP is not without its challenges. One of the biggest obstacles that Black players face is the prevalence of racism and discrimination in the broader gaming community. This can manifest in a variety of ways, from racist language and slurs to exclusion from certain games and communities..",
         "text_Content_1": "."
@@ -93,7 +93,7 @@
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HG1sTb4.jpg",
       "title": "blak rp 7",
         "text_Content": "In order to address these issues, many Black RP communities have developed their own codes of conduct and standards for behavior. These codes are designed to promote an environment of mutual respect and understanding, and to ensure that all players feel safe and empowered to express themselves..",
         "text_Content_1": "."
